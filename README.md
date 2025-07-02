@@ -1,1 +1,0 @@
-# Alura - Imersão DevOps
